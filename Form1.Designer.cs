@@ -64,6 +64,7 @@
             label2.Size = new Size(42, 15);
             label2.TabIndex = 1;
             label2.Text = "Nota 1";
+            label2.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // textBox1
             // 
@@ -122,17 +123,19 @@
             // 
             // button1
             // 
-            button1.Location = new Point(260, 58);
+            button1.BackColor = Color.Peru;
+            button1.ForeColor = Color.WhiteSmoke;
+            button1.Location = new Point(169, 195);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 9;
             button1.Text = "Calcular";
-            button1.UseVisualStyleBackColor = true;
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
             // button2
             // 
-            button2.Location = new Point(260, 145);
+            button2.Location = new Point(250, 195);
             button2.Name = "button2";
             button2.Size = new Size(75, 23);
             button2.TabIndex = 10;
@@ -143,7 +146,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(262, 84);
+            label6.Location = new Point(231, 58);
             label6.Name = "label6";
             label6.Size = new Size(63, 15);
             label6.TabIndex = 11;
@@ -169,6 +172,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ControlLight;
             ClientSize = new Size(347, 230);
             Controls.Add(label7);
             Controls.Add(label6);
@@ -183,6 +187,7 @@
             Controls.Add(textBox1);
             Controls.Add(label2);
             Controls.Add(label1);
+            FormBorderStyle = FormBorderStyle.FixedDialog;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";

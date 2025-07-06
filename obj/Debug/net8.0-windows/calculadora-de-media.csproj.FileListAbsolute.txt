@@ -14,3 +14,5 @@ C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\
 C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora-de-media.pdb
 C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora-de-media.genruntimeconfig.cache
 C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\ref\calculadora-de-media.dll
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora-de-media.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora_de_media.Properties.Resources.resources

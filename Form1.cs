@@ -19,7 +19,6 @@ namespace calculadora_de_media
 
         private void button2_Click(object sender, EventArgs e) //limpar
         {
-            this.Controls["label7"].Text = " ";
 
             foreach (Control controle in this.Controls)
             {
@@ -27,7 +26,7 @@ namespace calculadora_de_media
                 {
                     ((TextBox)controle).Clear();
                 }
-                this.Controls["label7"].Text = "...";
+                this.Controls["label7"].Text = " ";
 
             }
         }
