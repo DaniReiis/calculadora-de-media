@@ -1,0 +1,16 @@
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\bin\Debug\net8.0-windows\calculadora-de-media.exe
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\bin\Debug\net8.0-windows\calculadora-de-media.deps.json
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\bin\Debug\net8.0-windows\calculadora-de-media.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\bin\Debug\net8.0-windows\calculadora-de-media.dll
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\bin\Debug\net8.0-windows\calculadora-de-media.pdb
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora_de_media.Form1.resources
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora-de-media.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora-de-media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora-de-media.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora-de-media.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora-de-media.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora-de-media.dll
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\refint\calculadora-de-media.dll
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora-de-media.pdb
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\calculadora-de-media.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\programação\Curso\Csharp\calculadora-de-media\obj\Debug\net8.0-windows\ref\calculadora-de-media.dll
