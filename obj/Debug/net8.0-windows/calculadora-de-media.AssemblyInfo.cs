@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("calculadora-de-media")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05c3b53c6896b8f9179896726bcf675e91b87b8e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+676aee2d5d144cd9e6844ee256722c20a946abd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("calculadora-de-media")]
 [assembly: System.Reflection.AssemblyTitleAttribute("calculadora-de-media")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
